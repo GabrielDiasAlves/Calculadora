@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora em Java Swing
+Calculadora utilizando Java com Swing
